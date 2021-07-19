@@ -2,6 +2,10 @@
 # Behavior Analytics Services Deploy on Openshift 4.x
 Behavior Analytics Services (BAS) Template Deploy, ONLY Services for **Analytics Proxy Deployment** 
 
+## Based Guide on IBM Hands-On Labs here:
+[![N|Solid](https://developer.ibm.com/caas-storage/skillscollection/behavior-analytics-services/dev/_attachments/BAS_medium.png)](https://developer.ibm.com/openlabsdev/ui/behavior-analytics-services)
+> BAS Quickstart Installation for MAS, Quickstart guide to install Behavior Analytics Services(BAS) for Maximo Application Suite (MAS).
+
 ## Guide :
 1. Clone this repository
 > **Command:** git clone https://github.com/vergiehadiana/behavior-analytics-services.git
