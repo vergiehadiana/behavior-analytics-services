@@ -43,7 +43,7 @@ imagePullSecret      	  | Secret to pull container images from registry
 4. Execute the script BAS_installation.sh
 > **Command:** ./BAS_installation.sh
 
-It takes approximately 35 mins for the deployment to complete
+It takes **approximately 35 mins for the deployment to complete**
 
 On successful completion, the script will print the API KEY, BAS Endpoint URL and Grafana URL on the console.
 Additionally a log file "bas-installation.log" is generated for debug purpose.
