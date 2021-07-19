@@ -19,7 +19,7 @@ dbuser	                User name to be set for Database
 dbpassword  	          Password to be set for Database
 grafanauser	            User name to be set for Grafana
 grafanapassword	        Password to be set for Grafana
-===
+--------------------
 The remaining fields can be updated or kept default.
 ----------------------------------------------------------------------------------
 Properties	                  Description
@@ -34,7 +34,7 @@ envType	                      Type of environment. Can be prod (HA) or lite (non
 ibmproxyurl	                  URL of IBM Proxy
 airgappedEnabled	            Set value to "true" if airgapped setup is to be enabled otherwise keep the default value "false"
 imagePullSecret           	  Secret to pull container images from registry
-===
+--------------------
 Save the file ":wq"
 
 4. Execute the script BAS_installation.sh
