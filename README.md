@@ -1,5 +1,5 @@
 # behavior-analytics-services
-Behavior Analytics Services (BAS) Template Deploy - Analytics Proxy Deployment ONLY 
+Behavior Analytics Services (BAS) Template Deploy, ONLY Services for Analytics Proxy Deployment 
 
 1. Clone this repository
 2. Navigate to directory "Installation Scripts" to execute the script
